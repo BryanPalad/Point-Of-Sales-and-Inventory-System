@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EE09A42-8480-4000-BF16-C88A164B29AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Southern_Sky</RootNamespace>
+    <AssemblyName>Southern Sky</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\Desktop\MetroFramework.Dll\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\..\Desktop\MetroFramework.Dll\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup">
+      <HintPath>..\..\..\..\..\Program Files\MySQL\MySqlBackup.1.0.0\lib\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow">
+      <HintPath>..\Tulpep.NotificationWindow.1.1.23\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Supplier.Designer.cs">
+      <DependentUpon>Add Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADDCASH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADDCASH.Designer.cs">
+      <DependentUpon>ADDCASH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADDPRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADDPRODUCT.Designer.cs">
+      <DependentUpon>ADDPRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADDPRODUCT_2.cs" />
+    <Compile Include="ADDUSER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADDUSER.Designer.cs">
+      <DependentUpon>ADDUSER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN.Designer.cs">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlertType.cs" />
+    <Compile Include="AuditTrail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuditTrail.Designer.cs">
+      <DependentUpon>AuditTrail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BACKUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BACKUP.Designer.cs">
+      <DependentUpon>BACKUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CASHIER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CASHIER.Designer.cs">
+      <DependentUpon>CASHIER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomizeMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomizeNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomizeNotification.Designer.cs">
+      <DependentUpon>CustomizeNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="FORGET PASS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORGET PASS.Designer.cs">
+      <DependentUpon>FORGET PASS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginTrail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginTrail.Designer.cs">
+      <DependentUpon>LoginTrail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="metroGrid1.cs" />
+    <Compile Include="ModifyProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyProduct.Designer.cs">
+      <DependentUpon>ModifyProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySqlBackup.cs" />
+    <Compile Include="ORDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ORDER.Designer.cs">
+      <DependentUpon>ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORDERSTOCKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ORDERSTOCKS.Designer.cs">
+      <DependentUpon>ORDERSTOCKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PURCHASEORDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PURCHASEORDER.Designer.cs">
+      <DependentUpon>PURCHASEORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RECEIVESTOCKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RECEIVESTOCKS.Designer.cs">
+      <DependentUpon>RECEIVESTOCKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockIn.Designer.cs">
+      <DependentUpon>StockIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="string_message.cs" />
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierProduct.Designer.cs">
+      <DependentUpon>SupplierProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnavailableProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnavailableProduct.Designer.cs">
+      <DependentUpon>UnavailableProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usermanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usermanagement.Designer.cs">
+      <DependentUpon>Usermanagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProduct.Designer.cs">
+      <DependentUpon>ViewProduct.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Supplier.resx">
+      <DependentUpon>Add Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADDCASH.resx">
+      <DependentUpon>ADDCASH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADDPRODUCT.resx">
+      <DependentUpon>ADDPRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADDUSER.resx">
+      <DependentUpon>ADDUSER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN.resx">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AuditTrail.resx">
+      <DependentUpon>AuditTrail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BACKUP.resx">
+      <DependentUpon>BACKUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CASHIER.resx">
+      <DependentUpon>CASHIER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomizeMsgBox.resx">
+      <DependentUpon>CustomizeMsgBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomizeNotification.resx">
+      <DependentUpon>CustomizeNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORGET PASS.resx">
+      <DependentUpon>FORGET PASS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginTrail.resx">
+      <DependentUpon>LoginTrail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyProduct.resx">
+      <DependentUpon>ModifyProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ORDER.resx">
+      <DependentUpon>ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ORDERSTOCKS.resx">
+      <DependentUpon>ORDERSTOCKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PURCHASEORDER.resx">
+      <DependentUpon>PURCHASEORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RECEIVESTOCKS.resx">
+      <DependentUpon>RECEIVESTOCKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockIn.resx">
+      <DependentUpon>StockIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierProduct.resx">
+      <DependentUpon>SupplierProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnavailableProduct.resx">
+      <DependentUpon>UnavailableProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usermanagement.resx">
+      <DependentUpon>Usermanagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProduct.resx">
+      <DependentUpon>ViewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602194409822422.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_16021944098224221.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602194409822422.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_16021944098224221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602192976489232.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602192963155900.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602192796489250.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602193286489201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1602194293155767.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-add_383199.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DSC00585.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male User_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shutdown_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eraser_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male User_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password 1_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ask Question_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checked Checkbox_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ask Question_52px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checked Checkbox_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Ask Question_52px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checked Checkbox_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Credentials_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest Male_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_16021944098224222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User Credentials_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Property_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eraser_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_64px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Property_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_52px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Truck_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Move by Trolley_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Supplier_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_64px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_52px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back Arrow_64px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Treatment Plan_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eraser_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

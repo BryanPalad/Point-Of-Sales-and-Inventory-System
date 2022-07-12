@@ -1,0 +1,126 @@
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\Southern Sky.exe.config
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\Southern Sky.exe
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\Southern Sky.pdb
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\MetroFramework.dll
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.ADMIN.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.CASHIER.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.LOGIN.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.Properties.Resources.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern Sky.csproj.GenerateResource.Cache
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern Sky.exe
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern Sky.pdb
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.FORGET_PASS.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\bin\Debug\MetroFramework.Design.dll
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern Sky.csprojResolveAssemblyReference.cache
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.Usermanagement.resources
+C:\Users\fixfone m\documents\visual studio 2013\Projects\Southern Sky\Southern Sky\obj\Debug\Southern_Sky.ADDUSER.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.exe.config
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.exe
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.pdb
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\bin\Debug\MySqlBackup.dll
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csprojResolveAssemblyReference.cache
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Add_Supplier.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDCASH.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDPRODUCT.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDUSER.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADMIN.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.AuditTrail.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.BACKUP.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CASHIER.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\CustomizeMsgBox.CustomizeMsgBox.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CustomizeNotification.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.FORGET_PASS.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Form1.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LOGIN.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LoginTrail.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ModifyProduct.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDER.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Orders.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDERSTOCKS.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Properties.Resources.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.PURCHASEORDER.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.RECEIVESTOCKS.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Reports.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Settings.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.StockIn.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Supplier.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.SupplierProduct.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.UnavailableProduct.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Usermanagement.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ViewProduct.resources
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csproj.GenerateResource.Cache
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.exe
+C:\Users\fixfone m\Desktop\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.pdb
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.exe.config
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.exe
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\bin\Debug\Southern Sky.pdb
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Add_Supplier.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDCASH.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDPRODUCT.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDUSER.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADMIN.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.AuditTrail.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.BACKUP.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CASHIER.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\CustomizeMsgBox.CustomizeMsgBox.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CustomizeNotification.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.FORGET_PASS.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Form1.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LOGIN.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LoginTrail.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ModifyProduct.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDER.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Orders.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDERSTOCKS.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Properties.Resources.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.PURCHASEORDER.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.RECEIVESTOCKS.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Reports.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Settings.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.StockIn.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Supplier.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.SupplierProduct.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.UnavailableProduct.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Usermanagement.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ViewProduct.resources
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csproj.GenerateResource.Cache
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.exe
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.pdb
+C:\Users\fixfone m\Desktop\Systems\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csprojResolveAssemblyReference.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csproj.AssemblyReference.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csproj.SuggestedBindingRedirects.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Add_Supplier.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDCASH.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDPRODUCT.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADDUSER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ADMIN.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.AuditTrail.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.BACKUP.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CASHIER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\CustomizeMsgBox.CustomizeMsgBox.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.CustomizeNotification.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.FORGET_PASS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Form1.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LOGIN.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.LoginTrail.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ModifyProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Orders.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ORDERSTOCKS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.PURCHASEORDER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.RECEIVESTOCKS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Reports.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Settings.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.StockIn.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Supplier.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.SupplierProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.UnavailableProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.Usermanagement.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern_Sky.ViewProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.csproj.GenerateResource.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.exe
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.pdb
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Debug\Southern Sky.exe.config

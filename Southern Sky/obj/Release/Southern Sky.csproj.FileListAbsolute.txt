@@ -1,0 +1,31 @@
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern Sky.csproj.AssemblyReference.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern Sky.csproj.SuggestedBindingRedirects.cache
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Add_Supplier.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ADDCASH.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ADDPRODUCT.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ADDUSER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ADMIN.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.AuditTrail.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.BACKUP.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.CASHIER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\CustomizeMsgBox.CustomizeMsgBox.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.CustomizeNotification.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.FORGET_PASS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Form1.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.LOGIN.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.LoginTrail.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ModifyProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ORDER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Orders.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ORDERSTOCKS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.PURCHASEORDER.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.RECEIVESTOCKS.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Reports.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Settings.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.StockIn.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Supplier.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.SupplierProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.UnavailableProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.Usermanagement.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern_Sky.ViewProduct.resources
+C:\Users\palad\Desktop\College Projects\SKY SYSTEM\Southern Sky\obj\Release\Southern Sky.csproj.GenerateResource.cache
